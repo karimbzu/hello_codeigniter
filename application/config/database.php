@@ -79,7 +79,7 @@ $db['default'] = array(
 	'username' => 'giamirbuoncristiani',
 	'password' => '',
 	'database' => 'hello_codeigniter_development',
-	'dbdriver' => 'postgres',
+	'dbdriver' => 'postgre',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
@@ -94,3 +94,5 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+
+$db['default']['port'] = 5432;
