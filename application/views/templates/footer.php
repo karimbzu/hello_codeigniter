@@ -1,3 +1,3 @@
-    <strong>Built with &hearts; by Giami Buoncristiani</strong>
+    <p><strong>Built with &hearts; by Giamir Buoncristiani</strong></p>
   </body>
 </html>
